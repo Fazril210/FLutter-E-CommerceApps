@@ -1,0 +1,43 @@
+const welcome = "Temukan Produk Terbaik dari Teman Sekampus";
+const masuk = "Masuk";
+const daftar = "Daftar";
+const username = "Username";
+const usernameHint = "Masukkan username";
+const login = "Hai, Selamat ";
+const login2 = "Datang Kembali!";
+const login3 = "Masuk ke akunmu yuk!";
+const register = "Hai, ";
+const register2 = "Selamat Datang!";
+const register3 = "Untuk menggunakan aplikasi,";
+const register4 = "daftar akunmu dulu yuk!";
+const email = "Email atau No. Telepon";
+const password = "Password";
+const emailHint = "Masukkan email atau no. telepon";
+const passwordHint = "Masukkan password";
+const konfirmasiPassword = "Konfirmasi password";
+const lupaPassword = "Lupa password?";
+const verifikasi = "Verifikasi";
+const kodeVerifikasi = "Masukkan 6 digit kode verifikasi";
+const lanjutkan = "Lanjutkan";
+const masukGoogle = "Masuk menggunakan Google";
+const keranjangsaya = "Keranjang Saya";
+const ayamGeprek = "Ayam Geprek";
+const checkout = "Pesan Sekarang";
+const ringkasanpesanan = "Ringkasan Pesanan";
+const bayarpesanan = "Bayar Pesanan";
+
+const makananMinuman = "Makanan dan Minuman",
+    jasa = "Jasa",
+    perlengkapan = "Perlengkapan",
+    lainnya = "Lainnya";
+
+const beranda = "Beranda",
+    kategori = "Kategori",
+    keranjang = "Keranjang",
+    profil = "Profile";
+
+const masukkanPencarian = "Mau cari apa?",
+    pencarianMakananan = "Pengen makan apa?",
+    pencarianJasa = "Butuh jasa apa?",
+    pencarianPerlengkapan = "Nyari perlengkapan apa?",
+    rekomendasi = "Rekomendasi buat kamu";
