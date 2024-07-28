@@ -1,4 +1,4 @@
-# biu_merch
+# Flutter_E_CommerceApps
 
 A new Flutter project.
 
